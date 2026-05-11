@@ -1,0 +1,1 @@
+python -c "import google.generativeai as genai; print('BERHASIL')"
