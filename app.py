@@ -74,7 +74,7 @@ st.markdown("""
 # =========================
 # GEMINI API
 # =========================
-genai.configure(api_key="AIzaSyCFmUsicq2O-R_gn35Ycgek3Ql7A-D_oIU")
+genai.configure(api_key="YOUR_API_KEY")
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 # =========================
