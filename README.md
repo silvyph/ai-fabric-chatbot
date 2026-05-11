@@ -197,6 +197,17 @@ This project implements:
 * Fashion consultation
 * Conversational context memory
 
+## 📸 Application Preview
+
+### Home UI
+![Home UI](Home%20UI.png)
+
+### Chat Example
+![Chat Example](Chat%20Example.png)
+
+### Context Memory
+![Context Memory](Context%20Memory.png)
+
 ---
 
 # 🎯 Final Project Objective
