@@ -209,8 +209,7 @@ This project implements:
 ![Context Memory](Context%20Memory.png)
 
 ### Dataset / RAG Example
-![RAG Example](Dataset or RAG Example.png)
-
+![RAG Example](Dataset%20or%20RAG%20Example.png)
 ---
 
 # 🎯 Final Project Objective
